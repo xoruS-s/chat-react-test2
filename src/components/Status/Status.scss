@@ -1,0 +1,25 @@
+.status {
+    font-size: 11px;
+    opacity: .3;
+    width: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+
+    &::before {
+        display: block;
+        content: '';
+        width: 7px; height: 7px;
+        background: #8D8D8D;
+        border-radius: 50%;
+        margin: 1px 0 0 0;
+    }
+    &--online {
+        opacity: .8;
+        &::before {
+            background: #00ED18;
+        }
+    }
+}

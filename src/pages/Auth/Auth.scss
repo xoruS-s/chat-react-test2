@@ -1,0 +1,49 @@
+@import '~antd/dist/antd.css';
+.auth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  //font-family: 'Inter', Arial-sans, sans-serif;
+
+  &__top {
+    text-align: center;
+    margin-bottom: 50px;
+    h2 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 21px;
+      letter-spacing: .1px;
+      opacity: .5;
+    }
+  }
+
+  &__register-link {
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    color: #adadad;
+  }
+
+  .button {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: .1px;
+    width: 100%;
+    background: rgba(10, 61, 98, .7);
+    border: none;
+    transition: .3s;
+    margin-top: 20px;
+  }
+  .button:hover {
+    background: rgba(10, 61, 98, .6);
+  }
+
+  .block {
+    width: 430px;
+  }
+}

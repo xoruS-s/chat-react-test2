@@ -1,0 +1,8 @@
+//@import 'antd/dist/antd.css';
+@import "layouts/chat";
+
+html, body, #root, .wrapper {
+  height: 100%;
+  color: #202020;
+  margin: 0; padding: 0;
+}

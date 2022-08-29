@@ -1,0 +1,70 @@
+[
+  {
+    "_id": 1,
+    "user": {
+      "_id": 1,
+      "fullname": "Даниил Хачатуров",
+      "avatar": "http://www.rosphoto.com/images/u/articles/1510/4_8.jpg",
+      "isOnline": true
+    },
+    "text": "Тут какой-то текст, который не имеет никакого смысла",
+    "isReaded": false,
+    "unreaded": 3,
+    "created_at": "Aug 26 2022 14:01:00"
+  },
+  {
+    "_id": 2,
+    "user": {
+      "_id": 1,
+      "fullname": "Леонид Леонидович",
+      "avatar": "https://static-cse.canva.com/blob/847064/29.jpg"
+    },
+    "text": "Тут какой-то текст, который не имеет никакого смысла",
+    "isReaded": false,
+    "created_at": "Aug 26 2022 14:01:00"
+  },
+  {
+    "_id": 3,
+    "user": {
+      "_id": 1,
+      "fullname": "Леонид Леонидович",
+      "avatar": "https://static-cse.canva.com/blob/847064/29.jpg"
+    },
+    "text": "Тут какой-то текст, который не имеет никакого смысла",
+    "isReaded": false,
+    "created_at": "Aug 26 2022 14:01:00"
+  },
+  {
+    "_id": 4,
+    "user": {
+      "_id": 1,
+      "fullname": "Леонид Леонидович",
+      "avatar": "https://static-cse.canva.com/blob/847064/29.jpg"
+    },
+    "text": "Тут какой-то текст, который не имеет никакого смысла",
+    "isReaded": false,
+    "created_at": "Aug 26 2022 14:01:00"
+  },
+  {
+    "_id": 5,
+    "user": {
+      "_id": 1,
+      "fullname": "Леонид Леонидович",
+      "avatar": "https://static-cse.canva.com/blob/847064/29.jpg"
+    },
+    "text": "Тут какой-то текст, который не имеет никакого смысла",
+    "isReaded": false,
+    "created_at": "Aug 26 2022 14:01:00"
+  },
+  {
+    "_id": 6,
+    "user": {
+      "_id": 1,
+      "fullname": "Леонид Леонидович",
+      "avatar": "https://static-cse.canva.com/blob/847064/29.jpg"
+    },
+    "text": "Тут какой-то текст, который не имеет никакого смысла",
+    "isReaded": false,
+    "created_at": "Aug 26 2022 14:01:00"
+  }
+]
